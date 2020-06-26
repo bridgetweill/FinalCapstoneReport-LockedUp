@@ -1,5 +1,3 @@
-<center>
-
 # __Locked Away__
 #### _Capstone Final Paper_
 #### _BUAN 6590 - Capstone: Business Analytics Applications_ 
