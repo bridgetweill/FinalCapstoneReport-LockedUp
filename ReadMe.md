@@ -4,11 +4,11 @@
 #### _Capstone Final Paper_
 #### _BUAN 6590 - Capstone: Business Analytics Applications_ 
 
-<center>
+
 Bridget Weill
-<center>
+
 Fairfield University - Dolan School of Business
-<center>
+
 June 2020
 
 --------------
